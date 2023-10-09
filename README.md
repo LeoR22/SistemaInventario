@@ -1,4 +1,4 @@
-# Sistema de Inventario- POO
+# Aplicacion de escritorio - Sistema de Inventario- POO
 Login
 
 
