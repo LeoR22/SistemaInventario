@@ -1,12 +1,21 @@
 # Sistema de Inventario- POO
+Login
+
+
 Panel de Administración
+
+
 Este proyecto es un sistema de punto de venta desarrollado en Java 11 utilizando programación orientada a objetos (POO) y una base de datos MySQL. Además de las funcionalidades básicas de un punto de venta, también incluye un sistema de inventario para el control de productos.
 
-Características principales:
+# Características principales:
 
 Desarrollado en Java 11.
 Programación orientada a objetos (POO).
 Sistema de inventario integrado.
+
+#Base de Datos
+-Ejecuta el sql que se encuetra dentro de la raiz
+-En la clase Conexion solo debes cambiar el nombre de usuario y contraseña
 Base de datos MySQL para el almacenamiento de datos.
 Panel de administración para la gestión de productos y ventas.
 Este sistema de punto de venta es una herramienta versátil que facilita la gestión de ventas y el control de inventario para tu negocio.
