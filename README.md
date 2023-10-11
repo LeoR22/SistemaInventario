@@ -1,9 +1,13 @@
 # Aplicacion de escritorio - Sistema de Inventario- POO
-Login
 
+# Login
+![](https://github.com/LeoR22/SistemaInventario/blob/main/Login.png)
 
-Panel de Administración
+# Panel de Administración Rol Admin
+![](https://github.com/LeoR22/SistemaInventario/blob/main/Panel-Admin.png)
 
+# Panel de Administración Rol User
+![](https://github.com/LeoR22/SistemaInventario/blob/main/Panel-User.png)
 
 Este proyecto es un sistema de punto de venta desarrollado en Java 11 utilizando programación orientada a objetos (POO) y una base de datos MySQL. Además de las funcionalidades básicas de un punto de venta, también incluye un sistema de inventario para el control de productos.
 
